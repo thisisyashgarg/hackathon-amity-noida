@@ -12,8 +12,7 @@ EaseIt is an AI powered tool that can make your workout plan, create a diet char
    - node app.js
 
 # Screenshots
-
-![Alt text](./public/img/homepage.png?raw=true "Title")
-![Alt text](./public/img/features.png?raw=true "Title")
-![Alt text](./public/img/1.png?raw=true "Title")
-![Alt text](./public/img/2.png?raw=true "Title")
+![alt text](./public/img/homepage.png?raw=true "Title")
+![alt text](./public/img/features.png?raw=true "Title")
+![alt text](./public/img/1.png?raw=true "Title")
+![alt text](./public/img/2.png?raw=true "Title")
