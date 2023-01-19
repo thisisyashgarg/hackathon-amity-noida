@@ -1,11 +1,19 @@
 # EaseIt
 
-EaseIt is an AI powered tool that can write personalised messages, debug code of any language, make songs in any artist style, make your workout plan and can do anything that you can think of.
+EaseIt is an AI powered tool that can make your workout plan, create a diet chart for you and much more
 
-[Visit EaseIt](https://easeit.cyclic.app)
+# Steps to run the project
 
-![Alt text](public/img/1.png?raw=true "Landing Page")
+1. Clone the project
+2. Run the following commands
+   - npm init -y
+   - npm i
+3. Then run
+   - node app.js
 
-![Alt text](public/img/2.png?raw=true "Home Page")
+# Screenshots
 
-![Alt text](public/img/3.png?raw=true "Developer Section")
+![Alt text](./public/img/homepage.png?raw=true "Title")
+![Alt text](./public/img/features.png?raw=true "Title")
+![Alt text](./public/img/1.png?raw=true "Title")
+![Alt text](./public/img/2.png?raw=true "Title")
